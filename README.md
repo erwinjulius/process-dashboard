@@ -16,3 +16,12 @@ Activity Table (current state)
 timestamp - process_id - process_name - process_instance_id - activity_id - activity_name - main_entity_name - main_entity_id
 
 
+
+Documents receiving -> Deliver Documents -> Evaluate Orientations -> Demand breakdown -> Demanda response preparation -> Response acceptance -> Document Answering
+
+macro tasks....
+
+KPI
+Quality / Delay / Time
+
+
