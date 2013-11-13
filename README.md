@@ -7,8 +7,8 @@ Scenario
 --------
 
 Information model:
-Process Model/Activity - BPMS modeled processes
-Process/Activity Instance - Running instances representing models
+Process Model/Activity - BPMS modeled processes  
+Process/Activity Instance - Running instances representing models  
 
 
 Activity Table (current state)
