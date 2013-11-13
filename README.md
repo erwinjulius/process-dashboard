@@ -6,7 +6,7 @@ This app should render a visual representation of a process activities and offer
 Scenario
 --------
 
-Information model:
+Information model:  
 Process Model/Activity - BPMS modeled processes  
 Process/Activity Instance - Running instances representing models  
 
