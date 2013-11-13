@@ -33,7 +33,6 @@ Document Answering : ...
 
 
 KPI  
-
 Quality / Delay / Time
 
 
