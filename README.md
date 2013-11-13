@@ -24,14 +24,21 @@ Tasks grouping
 --------------
 
 Documents receiving : register document -> validate document
+
 Deliver Documents : write orientations -> submit orientations
+
 Evaluate Orientations : analyse orientations -> validate orientations
+
 Demand breakdown : demand indentifying -> demand validation -> demand approval
+
 Demand response preparation : demand acceptance -> response writing -> response approval
+
 Response acceptance : response analisys -> response analisys approval
+
 Document Answering : ...
 
 KPI
+
 Quality / Delay / Time
 
 
